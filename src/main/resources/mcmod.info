@@ -1,0 +1,12 @@
+[
+{
+  "modid": "mito_potato_place_machine",
+  "name": "Block Place Machine",
+  "description": "add one item.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ichigo"],
+}
+]
